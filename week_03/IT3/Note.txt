@@ -1,0 +1,12 @@
+Note: The original homework folder was stored as:
+
+/Users/user/codeclan/e20/workfiles/week_03/day_3/music/artist.rb
+
+
+
+
+
+
+
+
+
