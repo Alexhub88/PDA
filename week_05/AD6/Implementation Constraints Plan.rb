@@ -14,11 +14,11 @@ Software: -Ruby programming language
           -Google Project to create presentation
           -Draw IO to create diagrams
 
-Performance Requirements: ?
+Performance Requirements: time complexity should not grow outside reasonable limits considering the size of the datasets being processed.
 
 Storage and Transactions: data was stored using the Postgres database, with Postico for viewing purposes. Transaction records can be saved, added, edited or deleted by the user with the corresponding operations reflected in SQL.
 
-Usability: the application uses Sinatra to create a user experience which allows all transaction record operations to be easily carried out by the user, using only form buttons and links on the form.
+Usability: the application uses Sinatra to create a user experience which allows all transaction record operations to be easily carried out by the user, using only form buttons and links on the form. Code should also be understandable and commented. Code should be learnable for other cohort members
 
 Budget: not a formal requirement for this project, though of course critical in a real life software project.
 
